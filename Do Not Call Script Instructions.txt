@@ -1,0 +1,15 @@
+1. Look up the name in true people search
+2. Look up the address in true people search (only include the first 6 results)
+
+
+Include the following information for the first 6 people who show up for each search result:
+- Name, Age
+- List of phone numbers (if there are no phone numbers listed, don't put anything)
+- If they no longer live there list when they last lived there (if they do currently live there, dont put anything). It the last time they lived there isn't listed, put "No date listed"
+If the address is almost identical, put the address(an example would be the same address with E instead of W, or N instead of S)
+
+3. Check if numbers are on the do not call list
+
+If a number is not on the do not call list, make it bold
+If they are, strike through the line, so we can know to not call the number.
+If the number is from an area code that we do not have access to, highlight the line in red
